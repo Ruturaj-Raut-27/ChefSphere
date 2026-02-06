@@ -3,6 +3,8 @@
 ChefSphere is a cloud-ready, full-stack recipe management and discovery platform designed with clean architecture, scalability, and security in mind.  
 It enables users to discover, create, and manage recipes through a secure and responsive web experience.
 
+Shared Repository : https://github.com/abhishek-rajvir/ChefSphere-webapp/tree/master
+
 ---
 
 ## 🚀 Live Application
